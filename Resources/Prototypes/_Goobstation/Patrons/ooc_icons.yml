@@ -110,7 +110,15 @@
     sprite: /Textures/_Goobstation/Interface/Misc/ooc_icons.rsi
     state: harel
   tier: PatronTierGameStaff
-
+  
+- type: oocIcon
+  id: OocIconKeir
+  name: ooc-icon-keir
+  icon:
+    sprite: /Textures/_Goobstation/Interface/Misc/ooc_icons.rsi
+    state: Keir
+    
+  tier: PatronTierGameStaff
 - type: oocIcon
   id: OocIconLeguia
   name: ooc-icon-leguia
